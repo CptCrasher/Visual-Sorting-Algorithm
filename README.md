@@ -36,6 +36,11 @@ The entirety of this program was coded in Python using notable packages such as:
 
 **To download and try this program for yourself, download the folder titled "Visual Sorting Alg Build" and run the "Visual Sorting Alg.exe".**
 
+#### Randomizing Data
+![Screenshot](https://static.wixstatic.com/media/552ff3_d6cb0b4c09a74861a3cfda46f528b96d~mv2.gif)
 
+#### Sorting Data
+The following demonstration utilizes insertion sort
+![Screenshot](https://static.wixstatic.com/media/552ff3_1a2c2dd610634752a2bfefa67fbd1734~mv2.gif)
 
 
